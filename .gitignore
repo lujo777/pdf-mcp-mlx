@@ -73,6 +73,9 @@ venv.bak/
 # Project specific
 *.db
 
+# Converted MLX embedding weights (regenerable via mlx_embeddings.convert)
+models/
+
 # Benchmark run artifacts
 benchmark_results/
 
